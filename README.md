@@ -70,4 +70,4 @@ The dashboard uses the Superstore Sales dataset with the following features:
 - Dash Bootstrap Components
 
 
-Nirant Bendale
+Rishi Kulkarni
