@@ -27,7 +27,7 @@ An interactive dashboard built with Python and Dash to analyze Superstore sales 
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/nirantbendale/data-analysis-dashboard-using-python.git
+git clone https://github.com/rishi-kulkarni14/Data-analysis-dashboard-using-python.git
 cd superstore-dashboard
 ```
 
